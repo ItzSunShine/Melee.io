@@ -1,0 +1,4 @@
+body, html { margin: 0; padding: 0; overflow: hidden; font-family: sans-serif; }
+#gameCanvas { width: 100vw; height: 100vh; background: #222; display: block; }
+#usernameEntry { position: absolute; top: 20px; left: 20px; z-index: 10; background: rgba(0,0,0,0.5); padding: 10px; border-radius: 8px; }
+input, button { padding: 6px 10px; font-size: 14px; }
